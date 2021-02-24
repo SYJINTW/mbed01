@@ -1,5 +1,4 @@
 #include "mbed.h"
-#include "led.h"
 
 DigitalOut myLED(LED1);
 DigitalOut myLED2(LED3);
